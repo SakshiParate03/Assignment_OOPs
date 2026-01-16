@@ -9,6 +9,7 @@ namespace HRLib
         public MinimumBasicException(string message) : base(message)
         {
             // Console.WriteLine("Minimum Basic suppose to be 5000.");
+            // User Defined Exception
         }
     }
 }

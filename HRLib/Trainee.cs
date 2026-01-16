@@ -41,6 +41,7 @@ namespace HRLib
         
             Console.WriteLine($"Salary is: {salary}");
             return salary;
+            // github testing.
         }
         public override string ToString()
         {
