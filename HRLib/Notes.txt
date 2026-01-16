@@ -1,2 +1,3 @@
 testing git for changes
 editted
+file added to git and then editted again.
